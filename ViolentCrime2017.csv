@@ -1,0 +1,267 @@
+State,City,Population,"Violent
+crime","Property
+crime",Violent Crime per pop,"Violent crime rate per 100,000 inhabitants",Property crime per pop,"Property crime per 100,000 inhabitants"
+Pennsylvania,Erie,"98,887",176,959,0,177.98,0.01,969.79
+Washington,Renton,"100,015",148,"2,921",0,147.98,0.03,2920.56
+Wisconsin,Kenosha,"100,038",141,"1,042",0,140.95,0.01,1041.6
+Florida,Davie,100612,97,1431,0,96.41,0.01,1422.3
+New Jersey,Woodbridge Township,100950,51,802,0,50.52,0.01,794.45
+Indiana,South Bend,101240,465,2201,0,459.3,0.02,2174.04
+New Mexico,Las Cruces,102227,126,2351,0,123.26,0.02,2299.78
+New Jersey,Edison Township,102281,49,528,0,47.91,0.01,516.22
+Texas,Tyler,"102,481",206,"2,002",0,201.01,0.02,1953.53
+Florida,Lakeland,103498,168,2585,0,162.32,0.02,2497.63
+California,Rialto,103590,254,946,0,245.2,0.01,913.22
+California,Clovis,103769,131,1506,0,126.24,0.01,1451.3
+Georgia,Sandy Springs,103898,51,1296,0,49.09,0.01,1247.38
+California,El Cajon,103942,202,1273,0,194.34,0.01,1224.72
+California,San Mateo,104306,109,1019,0,104.5,0.01,976.93
+California,Santa Maria,104355,270,1371,0,258.73,0.01,1313.78
+Texas,Lewisville,"104,741",91,"1,334",0,86.88,0.01,1273.62
+Florida,West Palm Beach,104919,479,2671,0,456.54,0.03,2545.77
+Wisconsin,Green Bay,"105,119",244,954,0,232.12,0.01,907.54
+Texas,Wichita Falls,"105,186",245,"1,775",0,232.92,0.02,1687.49
+Texas,College Station,"105,855",118,"1,081",0,111.47,0.01,1021.21
+California,Burbank,105865,104,1358,0,98.24,0.01,1282.77
+Oklahoma,Broken Arrow,"106,145",73,"1,016",0,68.77,0.01,957.18
+Florida,Palm Bay,106469,251,783,0,235.75,0.01,735.43
+Texas,Pearland,"106,850",92,961,0,86.1,0.01,899.39
+California,Daly City,107320,131,783,0,122.06,0.01,729.59
+California,Norwalk,107470,203,942,0,188.89,0.01,876.52
+Washington,Everett,"107,633",258,"2,958",0,239.7,0.03,2748.23
+Florida,Pompano Beach,107656,458,2586,0,425.43,0.02,2402.1
+Colorado,Pueblo,108810,536,3439,0,492.6,0.03,3160.56
+California,West Covina,109030,146,1442,0,133.91,0.01,1322.57
+Connecticut,Waterbury,109044,267,2052,0,244.86,0.02,1881.81
+South Carolina,North Charleston,"109,051",435,"2,961",0,398.9,0.03,2715.24
+California,Murrieta,109495,53,812,0,48.4,0.01,741.59
+North Carolina,High Point,109669,318,1896,0,289.96,0.02,1728.84
+California,Richmond,109716,474,1805,0,432.02,0.02,1645.16
+Montana,Billings,109997,270,2537,0,245.46,0.02,2306.43
+California,Ventura,110077,183,1854,0,166.25,0.02,1684.28
+California,Antioch,110537,396,1756,0,358.25,0.02,1588.61
+New Hampshire,Manchester,110661,364,1565,0,328.93,0.01,1414.23
+Massachusetts,Lowell,110819,220,969,0,198.52,0.01,874.4
+Massachusetts,Cambridge,110953,162,1183,0,146.01,0.01,1066.22
+Texas,Richardson,"111,008",91,"1,201",0,81.98,0.01,1081.9
+Florida,Clearwater,111316,336,1821,0,301.84,0.02,1635.88
+Illinois,Elgin,111832,124,651,0,110.88,0.01,582.12
+California,Inglewood,112450,402,1219,0,357.49,0.01,1084.04
+Minnesota,Rochester,112542,127,1186,0,112.85,0.01,1053.83
+California,Fairfield,112582,275,1389,0,244.27,0.01,1233.77
+Florida,Miami Gardens,113469,376,1820,0,331.37,0.02,1603.96
+California,Costa Mesa,113477,199,2466,0,175.37,0.02,2173.13
+Colorado,Westminster,113547,129,1920,0,113.61,0.02,1690.93
+California,Carlsbad,113972,89,1137,0,78.09,0.01,997.61
+Michigan,Lansing,114694,525,1248,0,457.74,0.01,1088.11
+California,Downey,114754,189,1601,0,164.7,0.01,1395.16
+Utah,Provo,"115,294",82,"1,449",0,71.12,0.01,1256.79
+Colorado,Arvada,115379,103,1445,0,89.27,0.01,1252.39
+North Carolina,Wilmington,115434,409,2348,0,354.32,0.02,2034.06
+Texas,Round Rock,"115,955",85,"1,363",0,73.3,0.01,1175.46
+Illinois,Peoria,116066,378,1992,0,325.68,0.02,1716.26
+California,El Monte,117376,226,1191,0,192.54,0.01,1014.69
+Texas,Beaumont,"117,635",649,"2,466",0.01,551.71,0.02,2096.31
+Missouri,Independence,117639,304,2989,0,258.42,0.03,2540.82
+North Dakota,Fargo,118490,215,1737,0,181.45,0.01,1465.95
+Texas,Odessa,"118,606",490,"2,250",0,413.13,0.02,1897.04
+Michigan,Ann Arbor,118730,106,926,0,89.28,0.01,779.92
+Missouri,Columbia,118911,244,1546,0,205.2,0.01,1300.13
+Pennsylvania,Allentown,"119,335",257,"1,547",0,215.36,0.01,1296.35
+New York,Amherst Town,120207,45,953,0,37.44,0.01,792.8
+California,Berkeley,120387,262,2637,0,217.63,0.02,2190.44
+Indiana,Evansville,120414,359,2898,0,298.14,0.02,2406.7
+Georgia,Athens-Clarke County,120858,274,2096,0,226.71,0.02,1734.27
+California,Vallejo,121257,517,2419,0,426.37,0.02,1994.94
+Texas,Abilene,"121,764",279,"2,242",0,229.13,0.02,1841.27
+California,Victorville,123332,314,1833,0,254.6,0.01,1486.23
+California,Santa Clara,123562,88,1297,0,71.22,0.01,1049.68
+Tennessee,Murfreesboro,"123,994",359,"1,830",0,289.53,0.01,1475.88
+Connecticut,Hartford,124553,613,2390,0,492.16,0.02,1918.86
+Kansas,Topeka,127096,304,3302,0,239.19,0.03,2598.04
+Washington,Kent,"127,259",162,"3,669",0,127.3,0.03,2883.1
+Louisiana,Lafayette,127273,333,3156,0,261.64,0.02,2479.71
+California,Simi Valley,127472,88,780,0,69.03,0.01,611.9
+California,Concord,128767,221,2116,0,171.63,0.02,1643.28
+New Jersey,Elizabeth,129364,511,1976,0,395.01,0.02,1527.47
+Florida,Gainseville,129410,420,2379,0,324.55,0.02,1838.34
+Florida,Coral Springs,129631,110,1205,0,84.86,0.01,929.56
+Connecticut,Stamford,129682,153,851,0,117.98,0.01,656.22
+California,Thousand Oaks,129976,83,761,0,63.86,0.01,585.49
+Connecticut,New Haven,130403,594,2299,0,455.51,0.02,1763
+California,Visalia,130405,264,1969,0,202.45,0.02,1509.91
+Texas,Carrollton,"130,676",116,"1,358",0,88.77,0.01,1039.21
+Texas,Denton,"131,194",158,"1,424",0,120.43,0.01,1085.42
+Texas,Waco,"131,413",346,"2,351",0,263.29,0.02,1789.02
+South Carolina,Columbia,"132,495",373,"3,411",0,281.52,0.03,2574.44
+South Carolina,Charleston,"132,585",200,"1,524",0,150.85,0.01,1149.45
+Texas,Midland,"132,625",247,"1,785",0,186.24,0.01,1345.9
+Colorado,Thornton,133188,143,1997,0,107.37,0.01,1499.38
+Kansas,Olathe,134830,111,986,0,82.33,0.01,731.29
+Michigan,Warren,135367,351,1647,0,259.3,0.01,1216.69
+Virginia,Hampton,"136,381",174,"2,012",0,127.58,0.01,1475.28
+Florida,Miramar,138330,233,1480,0,168.44,0.01,1069.91
+Texas,Killeen,"140,497",445,"1,797",0,316.73,0.01,1279.03
+California,Orange,140572,104,1282,0,73.98,0.01,911.99
+Texas,McAllen,"140,593",96,"2,227",0,68.28,0.02,1584
+Ohio,Dayton,140683,573,3354,0,407.3,0.02,2384.08
+California,Pasadena,141815,241,1722,0,169.94,0.01,1214.26
+New York,Syracuse,144027,502,2209,0,348.55,0.02,1533.74
+Texas,Mesquite,"145,569",287,"2,756",0,197.16,0.02,1893.26
+New Jersey,Paterson,146588,547,1498,0,373.15,0.01,1021.91
+Illinois,Naperville,147101,37,697,0,25.15,0,473.82
+Illinois,Joliet,147991,260,1378,0,175.69,0.01,931.14
+Illinois,Rockford,148178,1238,2684,0.01,835.48,0.02,1811.34
+Connecticut,Bridgeport,148313,472,N/A,0,318.25,#VALUE!,
+California,Torrance,149243,116,1568,0,77.73,0.01,1050.64
+Florida,Hollywood,149822,316,2372,0,210.92,0.02,1583.21
+Tennessee,Clarksville,"150,319",481,"1,799",0,319.99,0.01,1196.79
+Colorado,Lakewood,151311,437,4124,0,288.81,0.03,2725.51
+California,Escondido,151732,257,1665,0,169.38,0.01,1097.33
+California,Sunnyvale,152443,68,1012,0,44.61,0.01,663.85
+Texas,Frisco,"152,678",65,"1,176",0,42.57,0.01,770.25
+Virginia,Alexandria,"152,710",137,"1,306",0,89.71,0.01,855.22
+Massachusetts,Springfield,154090,766,2459,0,497.11,0.02,1595.82
+California,Pomona,154410,334,2316,0,216.31,0.01,1499.9
+Texas,Pasadena,"154,986",328,"1,949",0,211.63,0.01,1257.53
+California,Hayward,157157,298,2266,0,189.62,0.01,1441.87
+California,Salinas,158185,431,2738,0,272.47,0.02,1730.88
+California,Palmdale,159613,351,1264,0,219.91,0.01,791.92
+Colorado,Fort Collins,159629,133,1583,0,83.32,0.01,991.67
+North Carolina,Cary,160291,67,852,0,41.8,0.01,531.53
+Oregon,Eugene,"161,608",285,"2,941",0,176.35,0.02,1819.84
+California,Lancaster,162095,550,1761,0,339.31,0.01,1086.4
+Oregon,Salem,"163,320",238,"3,339",0,145.73,0.02,2044.45
+Texas,McKinney,"163,406",117,"1,102",0,71.6,0.01,674.39
+California,Elk Grove,166183,278,1269,0,167.29,0.01,763.62
+Missouri,Springfield,166860,1144,6283,0.01,685.6,0.04,3765.43
+Florida,Pembroke Pines,167266,187,1823,0,111.8,0.01,1089.88
+Arizona,Peoria,170222,166,1865,0,97.52,0.01,1095.63
+California,Ontario,170274,298,2331,0,175.01,0.01,1368.97
+Mississippi,Jackson,170508,677,3875,0,397.05,0.02,2272.62
+Washington,Vancouver,"171,076",319,"2,868",0,186.47,0.02,1676.45
+South Dakota,Sioux Falls,"172,313",460,"2,664",0,266.96,0.02,1546.02
+Tennessee,Chattanooga,"174,969",873,"4,787",0,498.95,0.03,2735.91
+Arizona,Tempe,175556,437,4050,0,248.92,0.02,2306.96
+California,Santa Rosa,175738,333,1714,0,189.49,0.01,975.32
+California,Garden Grove,176041,252,2187,0,143.15,0.01,1242.32
+California,Oceanside,176319,307,2152,0,174.12,0.01,1220.52
+Florida,Port St. Lucie,176364,139,1167,0,78.81,0.01,661.7
+California,Rancho Cucamonga,176376,119,2072,0,67.47,0.01,1174.76
+Florida,Fort Lauderdale,178598,584,5366,0,326.99,0.03,3004.51
+Virginia,Newport News,"182,975",377,"2,570",0,206.04,0.01,1404.56
+Massachusetts,Worcester,183377,771,2711,0,420.45,0.01,1478.38
+Texas,Brownsville,"184,941",234,"3,057",0,126.53,0.02,1652.96
+Tennessee,Knoxville,"185,638",832,"4,854",0,448.18,0.03,2614.77
+Kansas,Overland Park,187240,188,1376,0,100.41,0.01,734.89
+Texas,Grand Prairie,"187,901",306,"2,217",0,162.85,0.01,1179.88
+Florida,Tallahassee,189709,857,5346,0,451.74,0.03,2818
+Alabama,Huntsville,"190,106",876,"4,565",0,460.8,0.02,2401.29
+Michigan,Grand Rapids,195268,619,N/A,0,317,#VALUE!,
+Ohio,Akron,197587,531,3210,0,268.74,0.02,1624.6
+Louisiana,Shreveport,197592,837,4729,0,423.6,0.02,2393.32
+Arkansas,Little Rock,198647,1415,6476,0.01,712.32,0.03,3260.05
+Texas,Amarillo,"198,770",680,"4,526",0,342.1,0.02,2277
+Illinois,Aurora,201034,306,1163,0,152.21,0.01,578.51
+New York,Yonkers,201753,464,988,0,229.98,0,489.71
+California,Huntington Beach,203233,170,2167,0,83.65,0.01,1066.26
+North Carolina,Fayetteville,204731,659,4598,0,321.89,0.02,2245.87
+California,Moreno Valley,205182,469,3052,0,228.58,0.01,1487.46
+Washington,Tacoma,"206,884","1,010","6,795",0,488.2,0.03,3284.45
+California,Fontana,206982,447,2224,0,215.96,0.01,1074.49
+California,Oxnard,207221,450,3291,0,217.16,0.02,1588.16
+New York,Rochester,209922,879,3583,0,418.73,0.02,1706.82
+California,Modesto,210794,1034,5010,0,490.53,0.02,2376.73
+California,Santa Clarita,211132,156,1476,0,73.89,0.01,699.09
+Washington,Spokane,"212,698",564,"8,000",0,265.16,0.04,3761.2
+California,San Bernardino,216477,1396,4431,0.01,644.87,0.02,2046.87
+Idaho,Boise,218844,330,2482,0,150.79,0.01,1134.14
+Virginia,Richmond,"220,802",504,"3,065",0,228.26,0.01,1388.12
+Louisiana,Baton Rouge,228727,979,4708,0,428.02,0.02,2058.35
+California,Fremont,232427,204,2239,0,87.77,0.01,963.31
+Arizona,Scottsdale,233872,197,2904,0,84.23,0.01,1241.7
+Nevada,North Las Vegas,234386,1122,2543,0,478.7,0.01,1084.96
+Virginia,Chesapeake,"235,273",416,"2,979",0,176.82,0.01,1266.19
+Texas,Irving,"236,465",258,"3,191",0,109.11,0.01,1349.46
+Texas,Garland,"237,593",367,"3,681",0,154.47,0.02,1549.29
+Florida,Hialeah,238132,336,2812,0,141.1,0.01,1180.86
+Nevada,Reno,239721,809,3820,0,337.48,0.02,1593.52
+Georgia,Savannah-Chatham,240178,574,3950,0,238.99,0.02,1644.61
+Virginia,Norfolk,"245,400",766,"4,438",0,312.14,0.02,1808.48
+Texas,Lubbock,"247,271","1,306","5,918",0.01,528.17,0.02,2393.33
+Arizona,Gilbert,247324,108,1694,0,43.67,0.01,684.93
+Wisconsin,Madison,"248,833",395,"3,187",0,158.74,0.01,1280.78
+Florida,St. Petersburg,255821,854,5642,0,333.83,0.02,2205.45
+Texas,Laredo,"256,280",493,"4,126",0,192.37,0.02,1609.96
+New York,Buffalo,258096,1358,4803,0.01,526.16,0.02,1860.94
+California,Irvine,258198,74,1977,0,28.66,0.01,765.69
+Arizona,Chandler,258875,272,2987,0,105.07,0.01,1153.84
+Indiana,Fort Wayne,259712,450,3976,0,173.27,0.02,1530.93
+New Jersey,Jersey City,265159,598,1986,0,225.53,0.01,748.98
+California,Chula Vista,265215,362,2377,0,136.49,0.01,896.25
+Florida,Orlando,268438,1194,7600,0,444.8,0.03,2831.19
+Nebraska,Lincoln,276585,473,4104,0,171.01,0.01,1483.81
+Nevada,Henderson,282554,305,2828,0,107.94,0.01,1000.87
+North Carolina,Greensboro,285950,898,4770,0,314.04,0.02,1668.12
+Ohio,Cincinnati,298478,1268,7064,0,424.82,0.02,2366.67
+Minnesota,St. Paul,300721,1000,4360,0,332.53,0.01,1449.85
+Alaska,Anchorage,301239,1692,6853,0.01,561.68,0.02,2274.94
+California,Stockton,304890,2158,5912,0.01,707.8,0.02,1939.06
+Pennsylvania,Pittsburgh,"306,870","1,115","4,487",0,363.35,0.01,1462.18
+Kentucky,Lexington,314077,504,5982,0,160.47,0.02,1904.63
+Missouri,St. Louis,317095,2781,8522,0.01,877.02,0.03,2687.52
+California,Riverside,323064,832,5443,0,257.53,0.02,1684.81
+Texas,Corpus Christi,"324,326","1,090","5,703",0,336.08,0.02,1758.42
+California,Santa Ana,337304,868,3428,0,257.33,0.01,1016.29
+California,Anaheim,349471,620,5151,0,177.41,0.01,1473.94
+Colorado,Aurora,360237,904,5477,0,250.95,0.02,1520.39
+Florida,Tampa,364383,984,4031,0,270.05,0.01,1106.25
+California,Bakersfield,373887,925,8264,0,247.4,0.02,2210.29
+Louisiana,New Orleans,393447,2041,7586,0.01,518.75,0.02,1928.09
+Oklahoma,Tulsa,"401,520","2,064","11,532",0.01,514.05,0.03,2872.09
+Minnesota,Minneapolis,413479,2111,7607,0.01,510.55,0.02,1839.75
+California,Oakland,419481,2952,11450,0.01,703.73,0.03,2729.56
+Florida,Miami,437969,1953,9473,0,445.92,0.02,2162.94
+Nebraska,Omaha,452252,1141,8166,0,252.29,0.02,1805.63
+Colorado,Colorado Springs,452410,1135,7574,0,250.88,0.02,1674.15
+Virginia,Virginia Beach,"452,797",344,"4,798",0,75.97,0.01,1059.64
+Georgia,Atlanta,464710,2531,11522,0.01,544.64,0.02,2479.4
+Arizona,Mesa,471034,1069,5517,0,226.95,0.01,1171.25
+Missouri,Kansas City,473373,3668,9204,0.01,774.86,0.02,1944.34
+California,Long Beach,476318,1405,6900,0,294.97,0.01,1448.61
+California,Sacramento,489717,1733,7875,0,353.88,0.02,1608.07
+California,Fresno,520837,1613,10334,0,309.69,0.02,1984.11
+Arizona,Tucson,529675,1988,15773,0,375.32,0.03,2977.86
+New Mexico,Albuquerque,559721,2897,17888,0.01,517.58,0.03,3195.88
+Wisconsin,Milwaukee,"600,400","4,427","11,359",0.01,737.34,0.02,1891.91
+Maryland,Baltimore,621252,5176,13822,0.01,833.16,0.02,2224.86
+Oklahoma,Oklahoma City,"630,621","2,462","12,436",0,390.41,0.02,1972.02
+Tennessee,Memphis,"657,936","5,733","16,833",0.01,871.36,0.03,2558.46
+Tennessee,Nashville,"658,029","3,398","11,480",0.01,516.39,0.02,1744.6
+Michigan,Detroit,673225,5409,13442,0.01,803.45,0.02,1996.66
+Kentucky,Louisville Metro,680550,2243,14378,0,329.59,0.02,2112.7
+Colorado,Denver,682418,2126,12336,0,311.54,0.02,1807.69
+Washington,Seattle,"683,700","2,058","19,148",0,301.01,0.03,2800.64
+Texas,El Paso,"686,077","1,337","5,950",0,194.88,0.01,867.25
+Texas,Fort Worth,"829,731","2,217","13,909",0,267.2,0.02,1676.33
+Ohio,Columbus,847745,2124,16668,0,250.55,0.02,1966.16
+California,San Francisco,863782,2987,22833,0,345.8,0.03,2643.38
+Florida,Jacksonville,867258,2758,15340,0,318.01,0.02,1768.79
+Texas,Austin,"938,728","1,958","16,933",0,208.58,0.02,1803.82
+Hawaii,Honolulu,999307,1165,15535,0,116.58,0.02,1554.58
+California,San Jose,1031458,1919,11463,0,186.05,0.01,1111.34
+Texas,Dallas,"1,301,977","4,772","22,059",0,366.52,0.02,1694.27
+California,San Diego,1400467,2644,14865,0,188.79,0.01,1061.43
+Texas,San Antonio,"1,463,586","5,111","36,630",0,349.21,0.03,2502.76
+Nevada,Las Vegas Metro,1562134,7277,22234,0,465.84,0.01,1423.31
+Pennsylvania,Philadelphia,"1,567,810","7,374","22,948",0,470.34,0.01,1463.7
+Texas,Houston,"2,275,221","11,578","49,299",0.01,508.87,0.02,2166.78
+Illinois,Chicago,2728695,13729,39151,0.01,503.13,0.01,1434.79
+California,Los Angeles,3962726,13724,48427,0,346.33,0.01,1222.06
+New York,New York,8550861,23543,59928,0,275.33,0.01,700.84
+California,Plano,Plano,62,1238,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+California,Plano,Plano,95,1866,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+California,Plano,Plano,114,1795,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Florida,Plano,Plano,103,1508,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Texas,Plano,Plano,178,"2,758",#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Washington,Plano,Plano,75,"2,165",#VALUE!,#VALUE!,#VALUE!,#VALUE!
